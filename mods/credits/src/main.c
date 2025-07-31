@@ -15,13 +15,13 @@
 
 #include "credits.h"
 
-char ModName[] = "KAR Deluxe Credits";
-char ModAuthor[] = "UnclePunch";
+char ModName[] = "KAR Ignition Credits";
+char ModAuthor[] = "Jas - UnclePunch";
 char ModVersion[] = "v1.0";
 
 OptionDesc ModSettings = {
     .name = "Credits",
-    .description = "View the credits for KAR Deluxe.",
+    .description = "View the credits for KAR Ignition.",
     .pri = MENUPRI_VERYLOW,
     .kind = OPTKIND_SCENE,
     .major_idx = -1,

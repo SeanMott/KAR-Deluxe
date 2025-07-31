@@ -13,8 +13,8 @@
 
 #include "title.h"
 
-char ModName[] = "KAR Deluxe Title";
-char ModAuthor[] = "UnclePunch";
+char ModName[] = "KAR Ignition Title";
+char ModAuthor[] = "Jas - UnclePunch";
 char ModVersion[] = "v1.0";
 
 void OnBoot(HSD_Archive *archive)
