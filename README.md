@@ -1,6 +1,6 @@
 <img src="https://github.com/UnclePunch/KAR-Deluxe/blob/main/art/main%20logo.png" alt="drawing" width="300"/>
 
-# Kirby Air Ride Ingition
+# Kirby Air Ride Ignition
 Kirby Air Ride Deluxe is a collection of mods powered by the [hoshi](https://github.com/UnclePunch/hoshi) framework with an emphasis on customization and familiar aesthetics. Many new menus and UI elements are included to improve the user experience. All features are toggleable and their settings save to the Ini file for syncing in KARphin.
 
 # Is this not just Deluxe?
