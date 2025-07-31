@@ -1,7 +1,11 @@
 <img src="https://github.com/UnclePunch/KAR-Deluxe/blob/main/art/main%20logo.png" alt="drawing" width="300"/>
 
-# Kirby Air Ride Deluxe
-Kirby Air Ride Deluxe is a collection of mods powered by the [hoshi](https://github.com/UnclePunch/hoshi) framework with an emphasis on customization and familiar aesthetics. Many new menus and UI elements are included to improve the user experience. All features are toggleable and their settings save to the memory card.
+# Kirby Air Ride Ingition
+Kirby Air Ride Deluxe is a collection of mods powered by the [hoshi](https://github.com/UnclePunch/hoshi) framework with an emphasis on customization and familiar aesthetics. Many new menus and UI elements are included to improve the user experience. All features are toggleable and their settings save to the Ini file for syncing in KARphin.
+
+# Is this not just Deluxe?
+
+[KAR Deluxe](https://github.com/UnclePunch/KAR-Deluxe) is a mod made by [Uncle Punch](https://github.com/UnclePunch). Ignition is based on his work but expands it. Adding more machine slots, changes to the Hoshi framework and adds in bits from the Decomp. The main reason to make another mod is my changes are so drastic, it wouldn't work with his mod. Ideally some of the changes can be merged back into his or Hoshi as a whole.
 
 ## Table of Contents
 - [Features](#features)
@@ -13,6 +17,7 @@ Kirby Air Ride Deluxe is a collection of mods powered by the [hoshi](https://git
 # Features
 
 ### General:
+- Expanded machines, just drop the dat and config file in the CT/Machines folder. Have as many as you want without replacing existing machines.
 - Added 8 additional Kirby Colors, complete with unique UI and HUD cosmetics.
 - Customize music in the new Music Settings menu within the Sound menu! Playlists save to the memory card. Can add new songs by simply dropping .hps files in the (audio/music) folder.
 - Change the music mid-game while paused.
@@ -38,25 +43,21 @@ Kirby Air Ride Deluxe is a collection of mods powered by the [hoshi](https://git
 - Enable/disable certain machines from spawning.
 
 ## Installation
-First head to the [releases](https://github.com/UnclePunch/KAR-Deluxe/releases) tab. There are 2 methods of playing Kirby Air Ride Deluxe:
-1. **ISO** - Most versatile option. 
-   - Download the "Builder" .zip.
-   - Extract the folder and open Builder.exe.
-   - Drag your Kirby Air Ride (USA) iso onto the window and select a location to save the Kirby Air Ride Deluxe iso.
 
-2. **Riivolution** - Dolphin supports Riivolution patches for Gamecube games and is quite easy to use.
-   - Download the "Riivolution" .zip.
-   - Extract its contents to "C:\Users\YourNameHere\Documents\Dolphin Emulator\Load\Riivolution".
-   - In Dolphin, right click your Kirby Air Ride iso and select launch with Riivolution patches
-   - Enable Kirby Air Ride Deluxe and select Start to play.
+Either go to [releases](https://github.com/SeanMott/KAR-Ignition/releases) tab and grab the latest patch.
+
+Or you can use [KARphin](https://karworkshop.com/) and it's included mod manager to download and auto-update Ignition.
+
+Regardless you will need a vanilla Kirby Air Ride ROM, it can be any region. But we can not provide one.
 
 ## Building
 See [BUILD](BUILD.md) file for details.
 
 ## Credits
-- UnclePunch - Project Lead/Programmer/Director
-- ShankMods - Assistant Director
+- Jas - Project Lead and programmer for Ignition
 - TacoTIkiTaco - Artwork/UI
+- UnclePunch - Maker of the original Hoshi Framework and KAR Deluxe
+- ShankMods - Assistant Director for Deluxe
 
 ## License
 This project is licensed under the GPL License - see the [LICENSE](LICENSE) file for details.
